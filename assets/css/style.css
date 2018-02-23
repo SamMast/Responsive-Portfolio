@@ -172,6 +172,10 @@ h3,
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
+  border-radius: 200px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
 }
 
 .work:nth-child(even) {
